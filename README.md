@@ -1,6 +1,5 @@
-# Data-Science-Projects
-Config files for my GitHub profile.
 Hi, I am Rejani Ninan
+
 PROJECT NAME: Retail Analysis
 PROJECT DETAILS:
 About Dataset
